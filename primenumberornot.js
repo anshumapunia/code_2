@@ -19,6 +19,11 @@ let num=13;
     }
 	
 	
+	
+	check weather the string ids palindrome or not
+	
+	let str="Nurpul";
+	
 	 let bag="";
     for(let i=str.length-1;i>=0;i--)
     {
@@ -33,7 +38,5 @@ let num=13;
     {
         console.log("No");
     }
-	check weather the string ids palindrome or not
 	
-	let str="Nurpul";
 	
