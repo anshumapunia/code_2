@@ -1,4 +1,4 @@
-check tehe number is prime or notify
+//check the number is prime or not
 
 let num=13;
   let count=0;
@@ -9,7 +9,7 @@ let num=13;
             count++;
         }
     }
-    if(count==!2)
+    if(count==2)
     {
         console.log("Yes");
     }
@@ -20,7 +20,7 @@ let num=13;
 	
 	
 	
-	check weather the string ids palindrome or not
+	//check weather the string its palindrome or not
 	
 	let str="Nurpul";
 	
@@ -30,7 +30,7 @@ let num=13;
         bag+=str[i];
     }
     // console.log(bag);
-    if(bag==!str)
+    if(bag==str)
     {
         console.log("Yes");
     }
